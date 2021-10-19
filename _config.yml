@@ -10,3 +10,4 @@ github_username: minhquydesign
 
 # Build settings
 markdown: kramdown
+gfm_quirks: [paragraph_end]
